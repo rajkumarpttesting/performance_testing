@@ -1,2 +1,2 @@
 # performance_testing 
-test 
+test ci/cd
